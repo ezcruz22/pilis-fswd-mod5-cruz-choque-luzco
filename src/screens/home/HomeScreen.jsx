@@ -6,7 +6,7 @@ export const HomeScreen = () => {
     <SafeAreaView style={styles.container}>
       <ImageBackground
         style={styles.bgImage}
-        source={require("../../../assets/images/home-bg-jujuy1.jpg")}
+        source={require("../../../assets/images/home-bg.jpg")}
       >
         <Image
           style={styles.ImageLogo}
